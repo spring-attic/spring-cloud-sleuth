@@ -62,7 +62,7 @@
 		<spring-cloud-deployer.version>2.5.2</spring-cloud-deployer.version>
 		<!-- Deprecated - reached EOL -->
 		<spring-security-boot-autoconfigure.version>2.3.4.RELEASE</spring-security-boot-autoconfigure.version>
-		<spring-security-oauth2.version>2.2.0.RELEASE</spring-security-oauth2.version>
+		<spring-security-oauth2.version>2.2.4.RELEASE</spring-security-oauth2.version>
 		<disable.nohttp.checks>false</disable.nohttp.checks>
 		<okhttp.version>4.12.0</okhttp.version>
 		<mockwebserver.version>4.8.1</mockwebserver.version>
